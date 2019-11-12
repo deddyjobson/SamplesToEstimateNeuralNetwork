@@ -1,1 +1,2 @@
-# SamplesToEstimateNeuralNetwork
+# How many samples to estimate a convolution filter.
+Here, I'll run some quick experiments to test the claims made by [How many samples regarding the representation ability of a convolution filter](https://papers.nips.cc/paper/7320-how-many-samples-are-needed-to-estimate-a-convolutional-neural-network). This will help me better understand how CNNs are superior to their fully connected counterparts.
